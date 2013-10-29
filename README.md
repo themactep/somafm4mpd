@@ -7,7 +7,7 @@ Console script to play SomaFM online radio playlists through an MPD server.
 Licence
 -------
 
-GLPv2 License
+GPLv2 License
 
 
 Requirements
@@ -38,13 +38,12 @@ Run the script in a terminal window.
 You will be presented with a numbered list of available playlists.  
 Select a playlist and enter its number to start listening.  
 Other supported commands are:  
- ? - to get quick help.  
-  i - to get playing track name.  
-  l - to show available playlists.  
-  p - to toggle play/pause.  
-  q - to exit the script.  
-  s - to save active playlist on MPD-server.
-
+  `?` - to get quick help.  
+  `i` - to get playing track name.  
+  `l` - to show available playlists.  
+  `p` - to toggle play/pause.  
+  `q` - to exit the script.  
+  `s` - to save active playlist on MPD-server.
 
 Authors
 -------
